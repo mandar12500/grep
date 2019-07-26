@@ -1,0 +1,2 @@
+Help for dirent.h was taken from https://stackoverflow.com/questions/44515234/how-can-i-make-use-of-dirent-h-file-to-print-the-files-in-a-directory
+Help for knowing that the current folder is accessed by using "." was taken from Abhijit Sir
